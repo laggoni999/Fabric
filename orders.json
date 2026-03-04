@@ -1,0 +1,37 @@
+[
+    {
+        "order_id": 1,
+        "customer_id": 101,
+        "product_id": 1001,
+        "order_date": "2026-03-01",
+        "amount": 250.0
+    },
+    {
+        "order_id": 2,
+        "customer_id": 102,
+        "product_id": 1002,
+        "order_date": "2026-03-02",
+        "amount": 450.0
+    },
+    {
+        "order_id": 3,
+        "customer_id": 103,
+        "product_id": 1003,
+        "order_date": "2026-03-03",
+        "amount": 300.0
+    },
+    {
+        "order_id": 4,
+        "customer_id": 101,
+        "product_id": 1002,
+        "order_date": "2026-03-04",
+        "amount": 150.0
+    },
+    {
+        "order_id": 5,
+        "customer_id": 104,
+        "product_id": 1001,
+        "order_date": "2026-03-05",
+        "amount": 500.0
+    }
+]
