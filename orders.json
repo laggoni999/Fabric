@@ -40,5 +40,12 @@
         "product_id": 1001,
         "order_date": "2026-03-06",
         "amount": 11500.0
-    }
+    },
+      {
+        "order_id": 7,
+        "customer_id": 101,
+        "product_id": 1002,
+        "order_date": "2026-03-06",
+        "amount": 10000.0
+    },
 ]
